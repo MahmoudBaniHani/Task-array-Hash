@@ -29,8 +29,6 @@ class ArrayApi
 		@arr_value.count {|a| a== element}
 		
 	end
-	def serch_value
-
-	end
+	
 
 end
